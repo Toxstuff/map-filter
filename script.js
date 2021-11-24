@@ -88,7 +88,6 @@ function getHeroNamesAverageIntelligence(gender) {
         } console.log("4. Durschnittliche Intelligenz nach Geschlecht: " + amount / sum)
     })
 }
-
 getHeroNamesAverageIntelligence("Male");
 
 // 5. alle Heroes mit anderem Gender als "Male" oder "Female" (Objekte mit Name + Gender):
